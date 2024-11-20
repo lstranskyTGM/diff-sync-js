@@ -36,6 +36,6 @@
         "synchronization"
     ],
     "dependencies": {
-      
+        "diff-sync-js": "^1.0.6"
     }
 }
